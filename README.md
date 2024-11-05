@@ -1,7 +1,7 @@
 Hello there!
 
 I'm **Sai Kiran Belana**, pursing Masters at University of Connecticut.
-Beside programming, I love playing CS:GO, Rocket League & Brawhalla. 
+Besides programming, I love playing CS:GO, Rocket League & Brawhalla. 
 I Love Photography 📷
 
 A bit more of myself:
