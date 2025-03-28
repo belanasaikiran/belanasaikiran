@@ -1,8 +1,7 @@
 Hello there!
 
-I'm **Sai Kiran Belana**, pursing Masters at University of Connecticut.
-Besides programming, I love playing CS:GO, Rocket League & Brawhalla. 
-I Love Photography 📷
+I'm **Sai Kiran Belana**, pursing Masters at University of Connecticut. I love Operating Systems, Computer Securuty and Embedded Systems.
+Besides programming, I play CS and do Photography.
 
 A bit more of myself:
 
@@ -14,7 +13,7 @@ A bit more of myself:
 
 You can also find me Here ↵
 
-<a href="https://www.linkedin.com/in/saikiran-belana-81004613a/"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700__340.png"/></a>
+<a href="https://www.linkedin.com/in/belanasaikiran"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700__340.png"/></a>
 <a href="https://www.instagram.com/copycharming/?hl=en"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266__340.jpg"/></a>
 </br>
 
@@ -40,7 +39,7 @@ Technologies and Tools I use</b></br>
 
 
 
-<a href="https://belanasaikiran.github.io/" target="blank" > Portfolio Website </a> 
+<a href="https://belanasaikiran.github.io" target="blank" > Portfolio Website </a> 
 
 
 <!---
