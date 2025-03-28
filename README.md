@@ -7,7 +7,7 @@ I'm Sai Kiran Belana 👋. I'm currently pursuing a Master's degree at the Unive
 - In my free time, I do street photography 📸.
 
 
-<img height="700px" src="./overview.png" alt="overview" />
+![overview](./overview.png)
 
 ## About Me
 
