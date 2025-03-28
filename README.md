@@ -1,10 +1,20 @@
-Hi there! I'm Sai Kiran Belana 👋. I'm currently pursuing a Master's degree at the University of Connecticut 🎓. My passions include Operating Systems, Computer Security, and Embedded Systems 💻. When I'm not coding, you can find me playing CS:GO 🎮. In my free time, I do street photography 📸.
+Hi there! 
+
+I'm Sai Kiran Belana 👋. I'm currently pursuing a Master's degree at the University of Connecticut 🎓. 
+
+- My passions include Operating Systems, Computer Security, and Embedded Systems  💻. 
+- When I'm not coding, you can find me playing CS:GO 🎮. 
+- In my free time, I do street photography 📸.
+
+
+<img height="700px" src="./overview.png" alt="overview" />
 
 ## About Me
 
 - 🔭 Apart from my School projects, I'm currenlty learning RTOS and Embedded Sytems in free time.
 - 🌟 Fun fact: I follow a polyphasic sleep schedule, sleeping for 4 hours every 12 hours
-- Check out my photography on  <a href="https://unsplash.com/@saikiranbelana" target="_blank"> <img 
+- Check out my photography on Unsplash <br />
+<a href="https://unsplash.com/@saikiranbelana" target="_blank"> <img 
  width="100px" src="https://unsplash.com/blog/content/images/max/2560/1-vQ5EsgnJkANWb5fktHPwnw.jpeg" /></a>
 - Also Looking for Summer Internships and FALL CO-OP programs
 
