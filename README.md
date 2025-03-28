@@ -4,7 +4,7 @@ Hello there!
 
 <table>
   <tr>
-    <img src="https://media.jax.org/m/8acfb9e1aac41963/webimage-uconn-huskies-logo-word-mark_large.png" alt="" />
+    <img src="https://media.jax.org/m/8acfb9e1aac41963/webimage-uconn-huskies-logo-word-mark_large.png" style={"width": "400px"} alt="" />
   </tr>
 </table>
 I'm **Sai Kiran Belana**, pursing Masters at University of Connecticut. I love Operating Systems, Computer Securuty and Embedded Systems.
