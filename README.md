@@ -1,6 +1,6 @@
 Hi there! 
 
-I'm Sai Kiran Belana 👋. I'm currently pursuing a Master's degree at the University of Connecticut 🎓. 
+I'm Sai Kiran Belana 👋. I'm currently pursuing a Master's in Computer Science at the University of Connecticut 🎓. 
 
 - My passions include Operating Systems, Computer Security, and Embedded Systems  💻. 
 - When I'm not coding, you can find me playing CS:GO 🎮. 
