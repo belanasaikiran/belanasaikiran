@@ -14,7 +14,7 @@ I'm Sai Kiran Belana 👋. I'm currently pursuing a Master's degree at the Unive
 - 🔭 Apart from my School projects, I'm currenlty learning RTOS and Embedded Sytems in free time.
 - 🌟 Fun fact: I follow a polyphasic sleep schedule, sleeping for 4 hours every 12 hours
 - Check out my photography on Unsplash <br />
-<a href="https://unsplash.com/@saikiranbelana" target="_blank"> <img 
+<a href="https://unsplash.com/@belanasaikiran" target="_blank"> <img 
  width="100px" src="https://unsplash.com/blog/content/images/max/2560/1-vQ5EsgnJkANWb5fktHPwnw.jpeg" /></a>
 - Also Looking for Summer Internships and FALL CO-OP programs
 
