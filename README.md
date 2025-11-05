@@ -21,9 +21,7 @@ I'm Sai Kiran Belana 👋. I'm currently pursuing a Master's in Computer Science
 Let's connect and build something amazing together!
 
 
-Find me on ↵
-
-<a href="https://www.linkedin.com/in/belanasaikiran"><img height="30px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/></a>
+Find me on <a href="https://www.linkedin.com/in/belanasaikiran"><img height="30px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/></a>
 
 
 <a href="https://belanasaikiran.github.io" target="blank" > Portfolio Website </a> 
