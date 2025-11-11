@@ -2,9 +2,12 @@ Hi there!
 
 I'm Sai Kiran Belana 👋. I'm currently pursuing Masters in Computer Science at the University of Connecticut 🎓. 
 
-- My interests include Operating Systems, Computer Security, and Embedded Systems  💻. 
-- When I'm not coding, you can find me playing CS:GO 🎮. 
+- Research Technician at Goldenson Center, UConn
+- Student Developer at Campus Technology Services, UConn
+- My interests include Operating Systems, Computer Security, Systems Security and Embedded Systems  💻. 
+- When I'm not coding, you can find me playing OverCooked 2 🎮
 - In my free time, I do street photography 📸.
+
 
 
 ![overview](./overview.png)
